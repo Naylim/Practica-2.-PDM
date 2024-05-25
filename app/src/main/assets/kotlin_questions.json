@@ -1,0 +1,78 @@
+[
+    {
+      "text": "¿Qué palabra clave se usa en Kotlin para declarar una variable inmutable?",
+      "options": ["var", "val", "const", "let"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "text": "¿Cómo se representa un rango de 1 a 5 en Kotlin?",
+      "options": ["1..5", "1-5", "range(1, 5)", "[1, 5]"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cuál de las siguientes opciones NO es una característica de Kotlin?",
+      "options": ["Null safety", "Extension functions", "Pointer arithmetic", "Data classes"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "text": "¿Qué operador se utiliza para comprobar si un objeto es de un tipo específico en Kotlin?",
+      "options": ["is", "as", "in", "=="],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cómo se declara una función de extensión que agrega un método 'square' a la clase Int?",
+      "options": ["fun Int.square(): Int = this * this", "extension Int.square(): Int = this * this", "Int::square() = this * this", "Int.square(): Int = this * this"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Qué palabra clave se utiliza para definir un constructor secundario en una clase de Kotlin?",
+      "options": ["secondary", "constructor", "Secondary", "construct"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "text": "¿Cuál de las siguientes es la forma correcta de declarar una lista inmutable de enteros en Kotlin?",
+      "options": ["listOf(1, 2, 3)", "arrayListOf(1, 2, 3)", "List<Int>(1, 2, 3)", "immutableListOf(1, 2, 3)"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Qué palabra clave se utiliza para sincronizar el acceso a un bloque de código en Kotlin?",
+      "options": ["synchronized", "lock", "volatile", "synchronize"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cómo se manejan las excepciones en Kotlin?",
+      "options": ["try/catch", "try/except", "do/while", "if/else"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cuál es el tipo de retorno de una función que no devuelve ningún valor?",
+      "options": ["Void", "Nothing", "Unit", "Null"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "text": "¿Cuál es la palabra clave para definir una interfaz en Kotlin?",
+      "options": ["interface", "Interface", "protocol", "Protocol"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cómo se declara un mapa inmutable con dos pares clave-valor 1 a 'a' y 2 a 'b'?",
+      "options": ["mapOf(1 to 'a', 2 to 'b')", "hashMapOf(1 to 'a', 2 to 'b')", "Map<Int, Char>(1 to 'a', 2 to 'b')", "immutableMapOf(1 to 'a', 2 to 'b')"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Qué palabra clave se usa para definir una variable que puede ser inicializada más tarde?",
+      "options": ["lateinit", "deferred", "lazy", "future"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "text": "¿Cuál de las siguientes opciones es correcta para definir una corutina en Kotlin?",
+      "options": ["runBlocking { }", "launch { }", "async { }", "Todas las anteriores"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "text": "¿Qué significa el modificador de visibilidad 'internal' en Kotlin?",
+      "options": ["El miembro es visible dentro del mismo módulo", "El miembro es visible dentro de la misma clase", "El miembro es visible en cualquier lugar", "El miembro es visible dentro del mismo archivo"],
+      "correctAnswerIndex": 0
+    }
+  ]
+  
